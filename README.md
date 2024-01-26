@@ -6,7 +6,6 @@ A notable revelation from our investigation is the gap in the literature regardi
 A key finding of our work underscores a significant distinction: despite a commendable 83% accuracy for the deep learning model, it is outperformed by the machine learning model, achieving an accuracy level of 92% in certain instances. This critical insight becomes discernible only through the application of XAI techniques, particularly the use of Lime. This emphasizes the paramount importance of transparent interpretability in evaluating model performance, showcasing the potential of XAI in unraveling nuanced aspects of predictive models.
 
 
-
 Dataset
 ![image](https://github.com/Sohamlinge/Sentiment-Analysis-with-XAI/assets/93962702/b7e3ab4b-3851-44b3-9597-93cbb90b4b4e)
 
