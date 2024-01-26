@@ -5,13 +5,13 @@ A notable revelation from our investigation is the gap in the literature regardi
 
 A key finding of our work underscores a significant distinction: despite a commendable 83% accuracy for the deep learning model, it is outperformed by the machine learning model, achieving an accuracy level of 92% in certain instances. This critical insight becomes discernible only through the application of XAI techniques, particularly the use of Lime. This emphasizes the paramount importance of transparent interpretability in evaluating model performance, showcasing the potential of XAI in unraveling nuanced aspects of predictive models.
 
-Dataset
+Dataset 
 ![image](https://github.com/Sohamlinge/Sentiment-Analysis-with-XAI/assets/93962702/b7e3ab4b-3851-44b3-9597-93cbb90b4b4e)
 
-Model Traning
+Model Training
 ![image](https://github.com/Sohamlinge/Sentiment-Analysis-with-XAI/assets/93962702/2d05f35b-9633-4559-9995-e4196920a27d)
 
-Logistic Regression result on negative sentiment using LIME
+Logistic Regression results on negative sentiment using LIME
 ![image](https://github.com/Sohamlinge/Sentiment-Analysis-with-XAI/assets/93962702/ff7eb988-69bc-44f6-bda8-f1bf802bfd9a)
 
 Logistic Regression results on complex inputs using LIME
